@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/trading-platform/precache-manifest.1d4844e232d5b5f3f1ff5222bc22b61e.js"
+  "/trading-platform/precache-manifest.f296e866d257da65b2ab3280d46bc341.js"
 );
 
 self.addEventListener('message', (event) => {
